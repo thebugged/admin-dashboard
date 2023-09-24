@@ -3,15 +3,14 @@
 
 ## 
 # Admin Dashboard
-This project is a design concept for an admin dashboard built using React, Vite, SCSS, Recharts, and TypeScript. It serves as a demonstration of good React practices for layout and is not fully functional. The primary goal of this repository is to showcase a visually appealing admin dashboard UI.
-
-
-## Installation
-
-To set up this project locally, follow these steps:
+This project is a design concept for an admin dashboard built using React and Sass with the Recharts library. It serves as a demonstration of good practices for layout and is not fully functional. The primary goal of this repository is to showcase a visually appealing admin dashboard UI.
 
 ### Prerequisites
 - Node.js
+  
+## Installation
+
+To set up this project locally, follow these steps:
 
 1. Clone the repository:
 ```shell
