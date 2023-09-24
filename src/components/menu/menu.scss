@@ -1,0 +1,27 @@
+@import "../../styles/variables.scss";
+@import "../../styles/responsive.scss";
+
+.menu {
+  .item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: $soft-bg;
+    }
+
+    .itemTitle{
+      @include lg{
+        display: none;
+      }
+    }
+
+      @include lg{
+        display: none;
+      }
+    }
+  }
+
