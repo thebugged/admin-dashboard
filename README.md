@@ -1,14 +1,32 @@
+<div align="center">
+  <br />
+    <a href="https://github.com/thebugged/admin-dashboard">
+      <img src="https://github.com/thebugged/admin-dashboard/assets/74977495/e825324e-5383-42fb-8388-b7bfef9ebdfc" alt="Banner">
+    </a>
+  <br />
 
-![dashboard](dashboard.gif)
+  <div>
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logoColor=white&logo=sass&color=CC6699" alt="sass" />
+  <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
+  <img src="https://img.shields.io/badge/-Recharts-black?style=for-the-badge&logoColor=white&logo=recharts&color=0081CB" alt="recharts" />
 
-## 
-# Admin Dashboard
-This project is a design concept for an admin dashboard built using React and Sass with the Recharts library. It serves as a demonstration of good practices for layout and is not fully functional. The primary goal of this repository is to showcase a visually appealing admin dashboard UI.
+</div>
 
-### Prerequisites
-- Node.js
-  
-## Installation
+
+  <h3 align="center">Admin Dashboard</h3>
+
+   <div align="center">
+A design concept for an admin dashboard built using React and Sass with the Recharts library.
+    </div>
+</div>
+<br/>
+
+## Setup & Installation
+**Prerequisites**
+
+Ensure the following is installed;
+- [Node.js](https://nodejs.org/en/download)
 
 To set up this project locally, follow these steps:
 
