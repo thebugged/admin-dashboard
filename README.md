@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
   <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logoColor=white&logo=sass&color=CC6699" alt="sass" />
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-  <img src="https://img.shields.io/badge/-Recharts-black?style=for-the-badge&logoColor=white&logo=recharts&color=0081CB" alt="recharts" />
 
 </div>
 
@@ -26,6 +25,7 @@ A design concept for an admin dashboard built using React and Sass with the Rech
 **Prerequisites**
 
 Ensure the following is installed;
+- [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/download)
 
 To set up this project locally, follow these steps:
