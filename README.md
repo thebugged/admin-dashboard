@@ -7,7 +7,7 @@
 
   <div>
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/-Sass-black?style=for-the-badge&logoColor=white&logo=sass&color=CC6699" alt="sass" />
+  <img src="https://img.shields.io/badge/-SCSS-black?style=for-the-badge&color=CC6699" alt="scss" />
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
 
 </div>
@@ -16,7 +16,7 @@
   <h3 align="center">Admin Dashboard</h3>
 
    <div align="center">
-A design concept for an admin dashboard built using React and Sass with the Recharts library.
+A design concept for an admin dashboard built using React and SCSS with the Recharts library.
     </div>
 </div>
 <br/>
